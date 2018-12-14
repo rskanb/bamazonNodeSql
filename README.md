@@ -9,6 +9,6 @@ inquirer node js package.
 
 Inquirer prompt with asking which item_id to buy and how many unit needed, based on user input price display and customer product quantity updated in product table which resides in bamazon database.
 Ex. here is Item_id 10 bought 3 in quantity so quantiy updated.
-![Product table updated after Customer input in Bamazon Database](image/BamazonCustomerView.png)
+![Product table updated after Customer input in Bamazon Database](image/BamazonProductUpdatedAfterBuy.png)
 
 
